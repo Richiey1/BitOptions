@@ -50,3 +50,4 @@ BitOptions/
 ## 📝 License
 
 MIT License - Developed by Richiey1
+## Roadmap
